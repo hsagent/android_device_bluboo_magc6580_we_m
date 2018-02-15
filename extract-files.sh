@@ -17,8 +17,8 @@
 
 set -e
 
-DEVICE=z5
-VENDOR=leagoo
+DEVICE=magc6580_we_m
+VENDOR=bluboo
 
 # Load extractutils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
